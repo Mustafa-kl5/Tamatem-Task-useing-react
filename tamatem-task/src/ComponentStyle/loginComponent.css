@@ -1,0 +1,12 @@
+.login-form-mainLayout {
+  @apply w-full h-full bg-tamatem-neutral-100 flex items-center justify-center px-30 sm:px-319 sm:py-65;
+}
+.login-form-sub-layout {
+  @apply w-full sm:h-full flex flex-col items-center sm:justify-center bg-tamatem-neutral-50 px-21 py-22 sm:px-220 rounded shadow-md;
+}
+.login-form-input-holder {
+  @apply flex flex-col gap-4 items-center sm:max-w-[328px] sm:min-w-[328px];
+}
+.tamatem-logo {
+  @apply w-[128px] h-[128px];
+}
